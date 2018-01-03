@@ -4,6 +4,8 @@ Live Demo: [https://uberweb.herokuapp.com](https://uberweb.herokuapp.com)
 
 Blog: [https://medium.com/@narendrashetty/how-i-built-a-super-fast-uber-clone-for-mobile-web-863680d2100f]
 
+Kudos to Narendra Shetty's work! Hope and will try to make this better.
+
 This is about my learning on performance techniques used to make Uber
 mobile web which I built using React as fast as possible.
 
